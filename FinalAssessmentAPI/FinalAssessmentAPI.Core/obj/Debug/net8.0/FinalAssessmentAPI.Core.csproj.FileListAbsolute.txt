@@ -1,0 +1,11 @@
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Core\bin\Debug\net8.0\FinalAssessmentAPI.Core.deps.json
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Core\bin\Debug\net8.0\FinalAssessmentAPI.Core.dll
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Core\bin\Debug\net8.0\FinalAssessmentAPI.Core.pdb
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Core\obj\Debug\net8.0\FinalAssessmentAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Core\obj\Debug\net8.0\FinalAssessmentAPI.Core.AssemblyInfoInputs.cache
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Core\obj\Debug\net8.0\FinalAssessmentAPI.Core.AssemblyInfo.cs
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Core\obj\Debug\net8.0\FinalAssessmentAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Core\obj\Debug\net8.0\FinalAssessmentAPI.Core.dll
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Core\obj\Debug\net8.0\refint\FinalAssessmentAPI.Core.dll
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Core\obj\Debug\net8.0\FinalAssessmentAPI.Core.pdb
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Core\obj\Debug\net8.0\ref\FinalAssessmentAPI.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\bin\Debug\net8.0\FinalAssessmentAPI.Infrastructure.deps.json
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\bin\Debug\net8.0\FinalAssessmentAPI.Infrastructure.runtimeconfig.json
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\bin\Debug\net8.0\FinalAssessmentAPI.Infrastructure.dll
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\bin\Debug\net8.0\FinalAssessmentAPI.Infrastructure.pdb
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\bin\Debug\net8.0\FinalAssessmentAPI.Core.dll
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\bin\Debug\net8.0\FinalAssessmentAPI.Core.pdb
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\obj\Debug\net8.0\FinalAssessmentAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\obj\Debug\net8.0\FinalAssessmentAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\obj\Debug\net8.0\FinalAssessmentAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\obj\Debug\net8.0\FinalAssessmentAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\obj\Debug\net8.0\FinalAssessmentAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\obj\Debug\net8.0\FinalAss.749C3275.Up2Date
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\obj\Debug\net8.0\FinalAssessmentAPI.Infrastructure.dll
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\obj\Debug\net8.0\refint\FinalAssessmentAPI.Infrastructure.dll
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\obj\Debug\net8.0\FinalAssessmentAPI.Infrastructure.pdb
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\obj\Debug\net8.0\FinalAssessmentAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\divya\OneDrive\Desktop\Projects\Angular Projects\Assignments\FinalAssessmentApp\FinalAssessmentAPI\FinalAssessmentAPI.Infrastructure\obj\Debug\net8.0\ref\FinalAssessmentAPI.Infrastructure.dll
