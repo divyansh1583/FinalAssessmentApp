@@ -25,8 +25,8 @@ CREATE TABLE Users (
     State2 NVARCHAR(50),
     Country2 NVARCHAR(50),
     ZipCode2 NVARCHAR(20),
-    IsActive BIT DEFAULT 1,
     Password NVARCHAR(100) NOT NULL,
+    IsActive BIT DEFAULT 1, 
     CreatedAt DATETIME DEFAULT GETDATE(),
     UpdatedAt DATETIME DEFAULT GETDATE()
 );
@@ -34,7 +34,7 @@ GO
 
 -- Corrected Stored Procedure for adding a new user
 
-CREATE OR ALTER PROCEDURE DC_AddUser
+CREATE OR ALTER PROCEDURE AddUser
     @FirstName NVARCHAR(50),
     @LastName NVARCHAR(50),
     @MiddleName NVARCHAR(50),
@@ -88,7 +88,7 @@ BEGIN
 END;
 GO
 
-EXEC DC_AddUser
+EXEC AddUser
     @FirstName = 'John',
     @LastName = 'Doe',
     @MiddleName = 'A',
@@ -125,9 +125,9 @@ EXEC DC_AddUser
     Address2,City2,State2,Country2,ZipCode2,
     IsActive,Password
 ) VALUES (
-    'John','Doe','A', 'Male', '2023-07-20', '1990-01-01', 
-    ENCRYPTBYPASSPHRASE('YourSecretKey', 'john.doe@example.com'), 
-    ENCRYPTBYPASSPHRASE('YourSecretKey', '1234567890'), 
+    'Divyansh','Chauhan','A', 'Male', '2023-07-20', '2002-11-14', 
+    ENCRYPTBYPASSPHRASE('YourSecretKey', 'dc@gmail'), 
+    ENCRYPTBYPASSPHRASE('YourSecretKey', '7876500078'), 
     '0987654321',
     '123 Main St', 'Anytown', 'Anystate', 'AnyCountry','12345',
     '456 Elm St', 'Othertown', 'Otherstate', 'OtherCountry', '67890',
